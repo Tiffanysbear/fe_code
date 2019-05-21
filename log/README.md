@@ -1,3 +1,4 @@
+使用如下：
 ```
 var logConfig = {
     pageView: {
